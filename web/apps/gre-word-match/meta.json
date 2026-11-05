@@ -1,0 +1,11 @@
+{
+ "name": "gre-word-match",
+ "title": "Word Match Sprint",
+ "exam": "GRE",
+ "area": "GRE Verbal",
+ "desc": "A fast matching game: pair words with meanings before the timer runs out, and beat your best time.",
+ "content": [
+  "gre_words.json"
+ ],
+ "n": 15
+}
